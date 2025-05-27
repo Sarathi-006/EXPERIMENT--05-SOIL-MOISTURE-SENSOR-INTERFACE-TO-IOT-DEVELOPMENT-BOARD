@@ -164,7 +164,7 @@ PUTCHAR_PROTOTYPE
 
 ## Output screen shots on serial monitor   :
  ![447348597-24b79b23-ecdf-4bd9-a17f-247a19ea0009](https://github.com/user-attachments/assets/db59200f-33b3-4137-814b-4e69164f6ae8)
-#Hardware
+## Hardware
  ![447065235-4a89195f-0a5b-40de-96b9-2dfb75049a6c](https://github.com/user-attachments/assets/2ab7b335-272f-4cf7-a6be-c6cfc084110e)
 
 ## Result :
